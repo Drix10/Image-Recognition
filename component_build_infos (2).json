@@ -1,0 +1,1 @@
+[{"assets":["look.js","weights_manifest.json","scavenger_classes.js","group1-shard1of1","tfjs-0.12.4.js","web_model.pb","look.html"],"native":[],"permissions":["android.permission.INTERNET","android.permission.CAMERA"],"activities":[],"broadcastReceivers":[],"broadcastReceiver":[],"libraries":[],"type":"edu.mit.appinventor.ai.look.Look","androidMinSdk":["7"]}]
